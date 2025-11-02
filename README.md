@@ -1,4 +1,4 @@
-# 🧠 Apache Jira Scraper — LLM Training Data Pipeline
+# 🧠 Apache Jira Scraper: LLM Training Data Pipeline
 
 A **production-grade data scraping and transformation pipeline** that extracts public issue data from **Apache’s Jira** instance and converts it into a **structured JSONL corpus** suitable for fine-tuning **Large Language Models (LLMs)**.
 
