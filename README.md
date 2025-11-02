@@ -7,7 +7,7 @@ A **production-grade data scraping and transformation pipeline** that extracts p
 ## 📘 Overview
 
 This project fulfills the **Web Scraping Tutor Assignment**, where the goal is to build a **robust, fault-tolerant, and scalable data extraction system** for Apache Jira.  
-It demonstrates end-to-end capabilities — from **scraping**, **error handling**, and **checkpoint recovery** to **transforming real-world text into machine-learning-ready datasets**.
+It demonstrates end-to-end capabilities from **scraping**, **error handling**, and **checkpoint recovery** to **transforming real-world text into machine-learning-ready datasets**.
 
 ### ✅ Projects Scraped
 - **Apache Kafka**
